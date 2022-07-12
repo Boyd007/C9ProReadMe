@@ -5,7 +5,7 @@
 
 This application allows the user to generate a readme file via the command line.  
 
-# Instalation 
+# Installation 
 
 Clone the Github repository and proceed to run node index.js and follow the prompts to generate a quality readme. 
 
