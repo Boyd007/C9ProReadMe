@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/105176171/178402102-49efc66b-31f8-4877
 ## Sample
 
 
+<img width="1390" alt="ReadmeGeratorScreenShot" src="https://user-images.githubusercontent.com/105176171/178409363-d4d4f4d2-4f59-4e08-8df2-553c2d3199fd.png">
 
 ## Technologies
 
